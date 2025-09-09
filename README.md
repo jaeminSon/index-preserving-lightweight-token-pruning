@@ -1,5 +1,6 @@
-# Simple Yet Efficient Token Pruning for Document Understanding in Vision-Language Models
-[arXiv (PDF)](https://arxiv.org/abs/YYMM.NNNNN)
+# Index-Preserving Lightweight Token Pruning for Efficient Document Understanding in Vision-Language Models
+
+[arXiv (PDF)](https://arxiv.org/abs/2509.06415)
 
 
 ## Generate a Qwen2_5 Model with the Pruning capability
