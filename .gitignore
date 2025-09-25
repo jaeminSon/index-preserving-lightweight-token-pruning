@@ -13,7 +13,6 @@ flop
 *.png
 *.jpg
 *.jpeg
-*.json
 
 # Pytorch weight files
 *.safetensors
