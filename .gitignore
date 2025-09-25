@@ -5,7 +5,6 @@ run.sh
 saved_models
 log
 checkpoints
-qwen2_5_*
 inference_results
 flop
 *.pdf
